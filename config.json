@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productronnect",
+        "uuid": 14798950,
+        "checksum": "tbx9g"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
